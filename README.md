@@ -1,16 +1,16 @@
-## Hi there 👋
+# Qobsi.
 
-<!--
-**qobsi/qobsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Roblox UI/UX designer exploring the other side of development: **Luau, game systems, and everything in between.**
+I love clean interfaces, amazing UX.
 
-Here are some ideas to get you started:
+```lua
+local Qobsi = {
+    primary = "UI/UX Design",
+    learning = "Luau",
+    philosophy = "Keep it simple.",
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Elsewhere
+- **Discord / Portfolio:** [@qobsi_](https://x.com/qobsi_)
+- **Commission TOS:** [Terms of Service](https://qobsi.github.io/Terms-Of-Service/)
