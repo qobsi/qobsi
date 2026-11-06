@@ -7,8 +7,10 @@ I love clean interfaces, amazing UX.
 local Qobsi = {
     primary = "UI/UX Design",
     learning = "Luau",
-    philosophy = "Keep it simple.",
+    philosophy = "Users first.",
 }
+
+print(Qobsi)
 ```
 
 ### Elsewhere
